@@ -2,7 +2,7 @@
 
 Machine learning code for Taylor et al "The molecular basis of socially-mediated phenotypic plasticity in a eusocial paper wasp".
 
-# System rquirements
+# System requirements
 
 # Installation guide
 
