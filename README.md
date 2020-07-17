@@ -1,4 +1,4 @@
-# Taylor-et-al-2020b
+# Taylor-et-al-2020-demo
 
 Machine learning demo code for Taylor et al "The molecular basis of socially-mediated phenotypic plasticity in a eusocial paper wasp".
 
