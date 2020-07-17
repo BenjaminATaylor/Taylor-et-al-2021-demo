@@ -18,7 +18,7 @@ We provide three sets of gene expression data for use with the demo code:
   
 Each dataset is provided both as an RData object which can be loaded directly into R and also as a .csv file for export to other programs. Additionally, to use the demo you will need to load the object *phenotypic_data* which describes which samples belong to which treatment groups in addition to phenotypic data (the latter are not used in the present demo but are included in case they are of interest). 
 
-# Demo
+# Demo & instructions for use
 
 Once a gene expression data matrix and the phenotypic data matrix have been loaded into an R session, the demo code can be run without further intervention. As output, the demo produces:
 
@@ -27,6 +27,3 @@ Once a gene expression data matrix and the phenotypic data matrix have been load
  * Classifications and error estimates for the optimised svm model produced using just the genes identified by feature selection as being caste-informative
  
  Note that the demo will likely take several hours to run on a desktop computer if the larger datasets provided are used. We recommend using the smaller subsample provided for testing the demo, which should take under an hour to run. This run time can be further reduced if the user modifies the demo to reduce the number of error estimates made in each loop of the feature selection process (set at 20 by default). Setting the number of loops to one will allow the demo to be run in under 10 minutes if using the subsetted data, but do note that the resulting error estimates will exhibit higher rates of stochasticity.  
-
-# Instructions for use
-
