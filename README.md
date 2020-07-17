@@ -4,9 +4,9 @@ Machine learning demo code for Taylor et al "The molecular basis of socially-med
 
 # System requirements
 
-Requires **R** version v3.6+ with packages *tidyverse*, *e1071*, *DESeq2*, *limma* & *pracma* installed.
+Requires R version v3.6+ with packages *tidyverse*, *e1071*, *DESeq2*, *limma* & *pracma* installed.
 
-Tested in **Ubuntu** v18.04.4 using **R** v3.6.3 running in **RStudio** v1.3.959.
+Tested in Ubuntu v18.04.4 using R v3.6.3 running in RStudio v1.3.959.
 
 # Installation guide
 
