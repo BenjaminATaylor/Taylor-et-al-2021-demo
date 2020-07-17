@@ -1,10 +1,10 @@
 # Taylor-et-al-2020-demo
 
-Machine learning demo code for Taylor et al "The molecular basis of socially-mediated phenotypic plasticity in a eusocial paper wasp".
+This repo contains machine learning demo code and data for Taylor et al "The molecular basis of socially-mediated phenotypic plasticity in a eusocial paper wasp".
 
 # System requirements
 
-Requires R version v3.6+ with packages *tidyverse*, *e1071*, *DESeq2*, *limma* & *pracma* installed.
+Requires R version v3.6+ with packages *tidyverse* v1.3+, *e1071* v1.7+, *DESeq2* v1.26+, *limma* v3.4+ & *pracma* v2.2+ installed.
 
 Tested in Ubuntu v18.04.4 using R v3.6.3 running in RStudio v1.3.959.
 
